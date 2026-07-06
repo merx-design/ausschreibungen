@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-29T11:33:21.840895Z",
-  "total": 89,
+  "updated": "2026-07-06T11:13:49.034976Z",
+  "total": 99,
   "sources": {
     "simap": 0,
-    "dtvp": 89
+    "dtvp": 99
   },
   "tenders": [
     {
@@ -230,6 +230,24 @@
       "status": "open"
     },
     {
+      "id": "dtvp-95d6a3f68f",
+      "title": "Ausschreibung einer Online-Marketing und Performance-Marketing Agentur für Social Media Advertising - Programmatic Advertising - datengetriebene digitalen Kampagnen.",
+      "description": "Ausschreibung einer Online-Marketing und Performance-Marketing Agentur für Social Media Advertising - Programmatic Advertising - datengetriebene digitalen Kampagnen.",
+      "authority": "Regensburg Tourismus GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "01.09.2026",
+      "categories": [
+        "Marketing",
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2550459",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-f0972c875e",
       "title": "Relaunch, Betrieb und Hosting der Websites",
       "description": "Relaunch, Betrieb und Hosting der Websites",
@@ -247,36 +265,36 @@
       "status": "open"
     },
     {
-      "id": "dtvp-baebdc09ff",
-      "title": "Programmierleistungen und Betriebssupport für Kommunikationswebseiten auf Drupal-Basis",
-      "description": "Programmierleistungen und Betriebssupport für Kommunikationswebseiten auf Drupal-Basis",
-      "authority": "Bundesdruckerei GmbH",
+      "id": "dtvp-4c517df192",
+      "title": "Rahmenvertrag: Microsoft Cloud-Lizenzen für CRM-System und Azure Plan",
+      "description": "Rahmenvertrag: Microsoft Cloud-Lizenzen für CRM-System und Azure Plan",
+      "authority": "Rhein-Main-Verkehrsverbund GmbH",
       "location": "Deutschland",
       "country": "DE",
       "published": "",
-      "deadline": "07.07.2026",
+      "deadline": "03.08.2026",
       "categories": [
-        "Website"
+        "CRM"
       ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2530284",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2550326",
       "value": null,
       "status": "open"
     },
     {
-      "id": "dtvp-160c287bd7",
-      "title": "Bauhaus-Archiv: Performance Marketing 2026: II",
-      "description": "Bauhaus-Archiv: Performance Marketing 2026: II",
-      "authority": "Bauhaus-Archiv / Museum für Gestaltung",
+      "id": "dtvp-81823d09f6",
+      "title": "Website Support & Weiterentwicklung",
+      "description": "Website Support & Weiterentwicklung",
+      "authority": "Oldenburgisch-Ostfriesischer Wasserverband",
       "location": "Deutschland",
       "country": "DE",
       "published": "",
-      "deadline": "08.07.2026",
+      "deadline": "04.08.2026",
       "categories": [
-        "Marketing"
+        "Website"
       ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2544056",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2551103",
       "value": null,
       "status": "open"
     },
@@ -298,142 +316,6 @@
       "status": "open"
     },
     {
-      "id": "dtvp-cf76590329",
-      "title": "SAP Basis Betrieb als Managed Service (2nd Level)",
-      "description": "SAP Basis Betrieb als Managed Service (2nd Level)",
-      "authority": "BEW Berliner Energie und Wärme GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "09.07.2026",
-      "categories": [
-        "ERP"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2529151",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-70456a5857",
-      "title": "Website Relaunch der zentralen Website www.folkwang-uni.de (Kopie)",
-      "description": "Website Relaunch der zentralen Website www.folkwang-uni.de (Kopie)",
-      "authority": "Folkwang Universität der Künste",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "10.07.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2534762",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-3c3837de6d",
-      "title": "Rahmenvereinbarung über die Wartung, Pflege und Weiterentwicklung der DAkkS-Webseite",
-      "description": "Rahmenvereinbarung über die Wartung, Pflege und Weiterentwicklung der DAkkS-Webseite",
-      "authority": "Deutsche Akkreditierungsstelle GmbH (DAkkS)",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "13.07.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2535581",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-02a52d251e",
-      "title": "Ausschreibung Leadagentur für das Landesmarketing Thüringens, verantwortet durch die Thüringer Staatskanzlei (TSK)",
-      "description": "Ausschreibung Leadagentur für das Landesmarketing Thüringens, verantwortet durch die Thüringer Staatskanzlei (TSK)",
-      "authority": "Freistaat Thüringen vertreten durch die Thüringer Staatskanzlei",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "13.07.2026",
-      "categories": [
-        "Marketing"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2531839",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-a5d3f986fa",
-      "title": "Entwicklung und Programmierung einer Website im Rahmen des Projekts Empowering Media Literacy (EML)",
-      "description": "Entwicklung und Programmierung einer Website im Rahmen des Projekts Empowering Media Literacy (EML)",
-      "authority": "tim | Staatliches Textil- und Industriemuseum Augsburg",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "13.07.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2537468",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-98a244a11a",
-      "title": "Rahmenvereinbarung Webseitenpflege",
-      "description": "Rahmenvereinbarung Webseitenpflege",
-      "authority": "Stiftung Humboldt Forum im Berliner Schloss",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "13.07.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2539205",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-936a8faba3",
-      "title": "Pflegeleistungen und Weiterentwicklung der App lebensmittelwarnung.de",
-      "description": "Pflegeleistungen und Weiterentwicklung der App lebensmittelwarnung.de",
-      "authority": "Bundesanstalt für Landwirtschaft und Ernährung",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "13.07.2026",
-      "categories": [
-        "App"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2536656",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-95829237a9",
-      "title": "Rahmenvereinbarungen IT-Dienstleistungen 2027ff.",
-      "description": "Rahmenvereinbarungen IT-Dienstleistungen 2027ff.",
-      "authority": "DFS Deutsche Flugsicherung GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "13.07.2026",
-      "categories": [
-        "Digitalisierung"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2536065",
-      "value": null,
-      "status": "open"
-    },
-    {
       "id": "dtvp-8861bc4d8d",
       "title": "Relaunch der Universitätswebseite der HCU inkl. Wartung/Support und Weiterentwicklung",
       "description": "Relaunch der Universitätswebseite der HCU inkl. Wartung/Support und Weiterentwicklung",
@@ -451,6 +333,23 @@
       "status": "open"
     },
     {
+      "id": "dtvp-9bf1906b4a",
+      "title": "Relaunch der Universitätswebseite der HCU inkl. Wartung/Support und Weiterentwicklung",
+      "description": "Relaunch der Universitätswebseite der HCU inkl. Wartung/Support und Weiterentwicklung",
+      "authority": "Universität Hamburg",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "14.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2550567",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-c4aafcc02d",
       "title": "Markenstrategie, Kommunikation und Website (07/MA/2026)",
       "description": "Markenstrategie, Kommunikation und Website (07/MA/2026)",
@@ -464,6 +363,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2536475",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-b768c4f2aa",
+      "title": "Markenstrategie, Kommunikation und Website (07/MA/2026)",
+      "description": "Markenstrategie, Kommunikation und Website (07/MA/2026)",
+      "authority": "IKK classic",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "15.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2549298",
       "value": null,
       "status": "open"
     },
@@ -554,6 +470,24 @@
       "status": "open"
     },
     {
+      "id": "dtvp-f6ca2d49f6",
+      "title": "Rahmenvereinbarung für Webleistungen, Hosting und marketingorientierte Dienstleistungen",
+      "description": "Rahmenvereinbarung für Webleistungen, Hosting und marketingorientierte Dienstleistungen",
+      "authority": "BKK Landesverband Bayern",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "20.07.2026",
+      "categories": [
+        "Website",
+        "Marketing"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2550745",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-bda6140f7f",
       "title": "Digital Hub und Social Media für die Metropolregion Hamburg",
       "description": "Digital Hub und Social Media für die Metropolregion Hamburg",
@@ -602,6 +536,41 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2542361",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-b5a8cf9c1d",
+      "title": "Weiterentwicklung und Ausbau einer digitalen Beteiligungsplattform sowie Umsetzung einer Progressive Web App (PWA)",
+      "description": "Weiterentwicklung und Ausbau einer digitalen Beteiligungsplattform sowie Umsetzung einer Progressive Web App (PWA)",
+      "authority": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "23.07.2026",
+      "categories": [
+        "App",
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2550233",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-97400122fb",
+      "title": "Drahtlose Hörunterstützung im Campus via App",
+      "description": "Drahtlose Hörunterstützung im Campus via App",
+      "authority": "Technische Universität Darmstadt",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "24.07.2026",
+      "categories": [
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2549985",
       "value": null,
       "status": "open"
     },
@@ -687,6 +656,40 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=1882041",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-c22294b0db",
+      "title": "ERP SW Norderney",
+      "description": "ERP SW Norderney",
+      "authority": "Stadtwerke Norderney GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "31.07.2026",
+      "categories": [
+        "ERP"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2551486",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-a832b03914",
+      "title": "Pflege und Weiterentwicklung TYPO3",
+      "description": "Pflege und Weiterentwicklung TYPO3",
+      "authority": "Universität Leipzig",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "31.08.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2550109",
       "value": null,
       "status": "open"
     },
@@ -948,6 +951,23 @@
       "status": "closing"
     },
     {
+      "id": "dtvp-baebdc09ff",
+      "title": "Programmierleistungen und Betriebssupport für Kommunikationswebseiten auf Drupal-Basis",
+      "description": "Programmierleistungen und Betriebssupport für Kommunikationswebseiten auf Drupal-Basis",
+      "authority": "Bundesdruckerei GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "07.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2530284",
+      "value": null,
+      "status": "closing"
+    },
+    {
       "id": "dtvp-050b08edf3",
       "title": "Neues Kassensystem / Ticketing Wilhelma",
       "description": "Neues Kassensystem / Ticketing Wilhelma",
@@ -999,6 +1019,23 @@
       "status": "closing"
     },
     {
+      "id": "dtvp-160c287bd7",
+      "title": "Bauhaus-Archiv: Performance Marketing 2026: II",
+      "description": "Bauhaus-Archiv: Performance Marketing 2026: II",
+      "authority": "Bauhaus-Archiv / Museum für Gestaltung",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "08.07.2026",
+      "categories": [
+        "Marketing"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2544056",
+      "value": null,
+      "status": "closing"
+    },
+    {
       "id": "dtvp-b5600bd10f",
       "title": "IM - Softwareentwicklung - Grundlagen der Programmierung - Online",
       "description": "IM - Softwareentwicklung - Grundlagen der Programmierung - Online",
@@ -1033,6 +1070,23 @@
       "status": "closing"
     },
     {
+      "id": "dtvp-cf76590329",
+      "title": "SAP Basis Betrieb als Managed Service (2nd Level)",
+      "description": "SAP Basis Betrieb als Managed Service (2nd Level)",
+      "authority": "BEW Berliner Energie und Wärme GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "09.07.2026",
+      "categories": [
+        "ERP"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2529151",
+      "value": null,
+      "status": "closing"
+    },
+    {
       "id": "dtvp-9cb43c1987",
       "title": "IQB - Entwicklung von Grafiken für die computergestützte Testung in den Fächern Bio-logie, Chemie, Physik, Mathematik, Deutsch, Englisch und Französisch der Sekundarstufe I",
       "description": "IQB - Entwicklung von Grafiken für die computergestützte Testung in den Fächern Bio-logie, Chemie, Physik, Mathematik, Deutsch, Englisch und Französisch der Sekundarstufe I",
@@ -1046,6 +1100,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2512755",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-70456a5857",
+      "title": "Website Relaunch der zentralen Website www.folkwang-uni.de (Kopie)",
+      "description": "Website Relaunch der zentralen Website www.folkwang-uni.de (Kopie)",
+      "authority": "Folkwang Universität der Künste",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "10.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2534762",
       "value": null,
       "status": "closing"
     },
@@ -1080,6 +1151,108 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2514163",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-3c3837de6d",
+      "title": "Rahmenvereinbarung über die Wartung, Pflege und Weiterentwicklung der DAkkS-Webseite",
+      "description": "Rahmenvereinbarung über die Wartung, Pflege und Weiterentwicklung der DAkkS-Webseite",
+      "authority": "Deutsche Akkreditierungsstelle GmbH (DAkkS)",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "13.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2535581",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-02a52d251e",
+      "title": "Ausschreibung Leadagentur für das Landesmarketing Thüringens, verantwortet durch die Thüringer Staatskanzlei (TSK)",
+      "description": "Ausschreibung Leadagentur für das Landesmarketing Thüringens, verantwortet durch die Thüringer Staatskanzlei (TSK)",
+      "authority": "Freistaat Thüringen vertreten durch die Thüringer Staatskanzlei",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "13.07.2026",
+      "categories": [
+        "Marketing"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2531839",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-a5d3f986fa",
+      "title": "Entwicklung und Programmierung einer Website im Rahmen des Projekts Empowering Media Literacy (EML)",
+      "description": "Entwicklung und Programmierung einer Website im Rahmen des Projekts Empowering Media Literacy (EML)",
+      "authority": "tim | Staatliches Textil- und Industriemuseum Augsburg",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "13.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2537468",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-98a244a11a",
+      "title": "Rahmenvereinbarung Webseitenpflege",
+      "description": "Rahmenvereinbarung Webseitenpflege",
+      "authority": "Stiftung Humboldt Forum im Berliner Schloss",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "13.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2539205",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-936a8faba3",
+      "title": "Pflegeleistungen und Weiterentwicklung der App lebensmittelwarnung.de",
+      "description": "Pflegeleistungen und Weiterentwicklung der App lebensmittelwarnung.de",
+      "authority": "Bundesanstalt für Landwirtschaft und Ernährung",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "13.07.2026",
+      "categories": [
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2536656",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-95829237a9",
+      "title": "Rahmenvereinbarungen IT-Dienstleistungen 2027ff.",
+      "description": "Rahmenvereinbarungen IT-Dienstleistungen 2027ff.",
+      "authority": "DFS Deutsche Flugsicherung GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "13.07.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2536065",
       "value": null,
       "status": "closing"
     },
