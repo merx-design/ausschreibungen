@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-06T11:13:49.034976Z",
-  "total": 99,
+  "updated": "2026-07-13T09:55:01.344474Z",
+  "total": 110,
   "sources": {
     "simap": 0,
-    "dtvp": 99
+    "dtvp": 110
   },
   "tenders": [
     {
@@ -282,6 +282,23 @@
       "status": "open"
     },
     {
+      "id": "dtvp-810daa8529",
+      "title": "Unterstützungsleistungen ePA App ANÜ",
+      "description": "Unterstützungsleistungen ePA App ANÜ",
+      "authority": "Techniker Krankenkasse",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "03.08.2026",
+      "categories": [
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2541390",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-81823d09f6",
       "title": "Website Support & Weiterentwicklung",
       "description": "Website Support & Weiterentwicklung",
@@ -295,6 +312,74 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2551103",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-d960b86b2c",
+      "title": "Technische Betreuung und Weiterentwicklung der Website www.sexualaufklaerung.de",
+      "description": "Technische Betreuung und Weiterentwicklung der Website www.sexualaufklaerung.de",
+      "authority": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "05.08.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2552928",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-e5c5a73573",
+      "title": "Ausschreibung Leadagentur für das Landesmarketing Thüringens, verantwortet durch die Thüringer Staatskanzlei (TSK)",
+      "description": "Ausschreibung Leadagentur für das Landesmarketing Thüringens, verantwortet durch die Thüringer Staatskanzlei (TSK)",
+      "authority": "Freistaat Thüringen vertreten durch die Thüringer Staatskanzlei",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "05.08.2026",
+      "categories": [
+        "Marketing"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2552873",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-158bb1c3bb",
+      "title": "Ausschreibung Leadagentur für das Landesmarketing Thüringens, verantwortet durch die Thüringer Staatskanzlei (TSK)",
+      "description": "Ausschreibung Leadagentur für das Landesmarketing Thüringens, verantwortet durch die Thüringer Staatskanzlei (TSK)",
+      "authority": "Freistaat Thüringen vertreten durch die Thüringer Staatskanzlei",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "05.08.2026",
+      "categories": [
+        "Marketing"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2554091",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-8c4db8c080",
+      "title": "Rahmenvereinbarung Beratungs- und Serviceleistungen zum Corporate Design, Template-Erstellung und Portalbetreuung",
+      "description": "Rahmenvereinbarung Beratungs- und Serviceleistungen zum Corporate Design, Template-Erstellung und Portalbetreuung",
+      "authority": "Deutsche Gesetzliche Unfallversicherung e.V.",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "06.08.2026",
+      "categories": [
+        "Design"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2550951",
       "value": null,
       "status": "open"
     },
@@ -316,174 +401,53 @@
       "status": "open"
     },
     {
-      "id": "dtvp-8861bc4d8d",
-      "title": "Relaunch der Universitätswebseite der HCU inkl. Wartung/Support und Weiterentwicklung",
-      "description": "Relaunch der Universitätswebseite der HCU inkl. Wartung/Support und Weiterentwicklung",
-      "authority": "Universität Hamburg",
+      "id": "dtvp-d54df10737",
+      "title": "CRM-System",
+      "description": "CRM-System",
+      "authority": "Berlin Partner für Wirtschaft und Technologie GmbH",
       "location": "Deutschland",
       "country": "DE",
       "published": "",
-      "deadline": "14.07.2026",
+      "deadline": "11.08.2026",
       "categories": [
-        "Website"
+        "CRM"
       ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2540826",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2557760",
       "value": null,
       "status": "open"
     },
     {
-      "id": "dtvp-9bf1906b4a",
-      "title": "Relaunch der Universitätswebseite der HCU inkl. Wartung/Support und Weiterentwicklung",
-      "description": "Relaunch der Universitätswebseite der HCU inkl. Wartung/Support und Weiterentwicklung",
-      "authority": "Universität Hamburg",
+      "id": "dtvp-f2c59bdf14",
+      "title": "Softwareentwicklung für Betriebssystem des AVF-Kompetenzzentrum im Rahmen des Projekts MOVEwell",
+      "description": "Softwareentwicklung für Betriebssystem des AVF-Kompetenzzentrum im Rahmen des Projekts MOVEwell",
+      "authority": "Bauhaus-Universität Weimar",
       "location": "Deutschland",
       "country": "DE",
       "published": "",
-      "deadline": "14.07.2026",
+      "deadline": "11.08.2026",
       "categories": [
-        "Website"
+        "Digitalisierung"
       ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2550567",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2556276",
       "value": null,
       "status": "open"
     },
     {
-      "id": "dtvp-c4aafcc02d",
-      "title": "Markenstrategie, Kommunikation und Website (07/MA/2026)",
-      "description": "Markenstrategie, Kommunikation und Website (07/MA/2026)",
-      "authority": "IKK classic",
+      "id": "dtvp-cbcb66f2a4",
+      "title": "CRM-System Adito",
+      "description": "CRM-System Adito",
+      "authority": "Deutsche Welle, Standort Bonn",
       "location": "Deutschland",
       "country": "DE",
       "published": "",
-      "deadline": "15.07.2026",
+      "deadline": "17.08.2026",
       "categories": [
-        "Website"
+        "CRM"
       ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2536475",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-b768c4f2aa",
-      "title": "Markenstrategie, Kommunikation und Website (07/MA/2026)",
-      "description": "Markenstrategie, Kommunikation und Website (07/MA/2026)",
-      "authority": "IKK classic",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "15.07.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2549298",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-bb8e01b15b",
-      "title": "Rahmenvereinbarung Leadagentur Mediastrategie und Mediaplanung",
-      "description": "Rahmenvereinbarung Leadagentur Mediastrategie und Mediaplanung",
-      "authority": "Hamburg Tourismus GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "16.07.2026",
-      "categories": [
-        "Marketing"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2533070",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-f205d0e9f7",
-      "title": "Mediencenter - Bereitstellung und Konfigurierung einer cloudbasierten Online-Shop-Lösung",
-      "description": "Mediencenter - Bereitstellung und Konfigurierung einer cloudbasierten Online-Shop-Lösung",
-      "authority": "Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "16.07.2026",
-      "categories": [
-        "Website",
-        "E-Commerce"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2538281",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-90b960d149",
-      "title": "Technischer und redaktioneller Support für die Webseite www.migration-gesundheit.bund.de",
-      "description": "Technischer und redaktioneller Support für die Webseite www.migration-gesundheit.bund.de",
-      "authority": "Bundesministerium für Gesundheit",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "16.07.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2546538",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-810daa8529",
-      "title": "Unterstützungsleistungen ePA App ANÜ",
-      "description": "Unterstützungsleistungen ePA App ANÜ",
-      "authority": "Techniker Krankenkasse",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "20.07.2026",
-      "categories": [
-        "App"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2541390",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-5297efac38",
-      "title": "Unterstützungsleistungen ePA App",
-      "description": "Unterstützungsleistungen ePA App",
-      "authority": "Techniker Krankenkasse",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "20.07.2026",
-      "categories": [
-        "App"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2541386",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-f6ca2d49f6",
-      "title": "Rahmenvereinbarung für Webleistungen, Hosting und marketingorientierte Dienstleistungen",
-      "description": "Rahmenvereinbarung für Webleistungen, Hosting und marketingorientierte Dienstleistungen",
-      "authority": "BKK Landesverband Bayern",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "20.07.2026",
-      "categories": [
-        "Website",
-        "Marketing"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2550745",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2557752",
       "value": null,
       "status": "open"
     },
@@ -592,6 +556,23 @@
       "status": "open"
     },
     {
+      "id": "dtvp-dd35458ce5",
+      "title": "Support und Relaunch der Website www.frankfurt-inklusive.de und des Stadtführers für Menschen mit Behinderungen",
+      "description": "Support und Relaunch der Website www.frankfurt-inklusive.de und des Stadtführers für Menschen mit Behinderungen",
+      "authority": "Stadt Frankfurt am Main, Stadtkämmerei Ausschreibungsservice",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "26.08.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2556097",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-620edceb6c",
       "title": "Rahmenvertrag zur Weiterentwicklung des CRM- Systems (insb. der Projektedatenbank für die Fachprogramme) auf Basis von Microsoft Dynamics 365 CRM",
       "description": "Rahmenvertrag zur Weiterentwicklung des CRM- Systems (insb. der Projektedatenbank für die Fachprogramme) auf Basis von Microsoft Dynamics 365 CRM",
@@ -673,6 +654,40 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2551486",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-ca41fc0a2c",
+      "title": "Betreuung und Entwicklung der Website der HfMT Köln/ Typ 3",
+      "description": "Betreuung und Entwicklung der Website der HfMT Köln/ Typ 3",
+      "authority": "Hochschule für Musik und Tanz Köln",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "31.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2557023",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-a3a96a6b5d",
+      "title": "Rahmenvertrag Unterstützungsleistungen Social Media",
+      "description": "Rahmenvertrag Unterstützungsleistungen Social Media",
+      "authority": "DIHK | Deutsche Industrie und Handelskammer",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "31.07.2026",
+      "categories": [
+        "Marketing"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2556823",
       "value": null,
       "status": "open"
     },
@@ -1274,6 +1289,40 @@
       "status": "closing"
     },
     {
+      "id": "dtvp-8861bc4d8d",
+      "title": "Relaunch der Universitätswebseite der HCU inkl. Wartung/Support und Weiterentwicklung",
+      "description": "Relaunch der Universitätswebseite der HCU inkl. Wartung/Support und Weiterentwicklung",
+      "authority": "Universität Hamburg",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "14.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2540826",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-9bf1906b4a",
+      "title": "Relaunch der Universitätswebseite der HCU inkl. Wartung/Support und Weiterentwicklung",
+      "description": "Relaunch der Universitätswebseite der HCU inkl. Wartung/Support und Weiterentwicklung",
+      "authority": "Universität Hamburg",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "14.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2550567",
+      "value": null,
+      "status": "closing"
+    },
+    {
       "id": "dtvp-55b281bb24",
       "title": "Landesgartenschau 2027 Neustadt an der Weinstraße - Performance Marketing",
       "description": "Landesgartenschau 2027 Neustadt an der Weinstraße - Performance Marketing",
@@ -1287,6 +1336,57 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2514859",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-c4aafcc02d",
+      "title": "Markenstrategie, Kommunikation und Website (07/MA/2026)",
+      "description": "Markenstrategie, Kommunikation und Website (07/MA/2026)",
+      "authority": "IKK classic",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "15.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2536475",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-b768c4f2aa",
+      "title": "Markenstrategie, Kommunikation und Website (07/MA/2026)",
+      "description": "Markenstrategie, Kommunikation und Website (07/MA/2026)",
+      "authority": "IKK classic",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "15.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2549298",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-092749c43d",
+      "title": "Entwicklung und Programmierung einer Website im Rahmen des Projekts Empowering Media Literacy (EML)",
+      "description": "Entwicklung und Programmierung einer Website im Rahmen des Projekts Empowering Media Literacy (EML)",
+      "authority": "tim | Staatliches Textil- und Industriemuseum Augsburg",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "15.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2557264",
       "value": null,
       "status": "closing"
     },
@@ -1321,6 +1421,58 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2519476",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-bb8e01b15b",
+      "title": "Rahmenvereinbarung Leadagentur Mediastrategie und Mediaplanung",
+      "description": "Rahmenvereinbarung Leadagentur Mediastrategie und Mediaplanung",
+      "authority": "Hamburg Tourismus GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "16.07.2026",
+      "categories": [
+        "Marketing"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2533070",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-f205d0e9f7",
+      "title": "Mediencenter - Bereitstellung und Konfigurierung einer cloudbasierten Online-Shop-Lösung",
+      "description": "Mediencenter - Bereitstellung und Konfigurierung einer cloudbasierten Online-Shop-Lösung",
+      "authority": "Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "16.07.2026",
+      "categories": [
+        "Website",
+        "E-Commerce"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2538281",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-90b960d149",
+      "title": "Technischer und redaktioneller Support für die Webseite www.migration-gesundheit.bund.de",
+      "description": "Technischer und redaktioneller Support für die Webseite www.migration-gesundheit.bund.de",
+      "authority": "Bundesministerium für Gesundheit",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "16.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2546538",
       "value": null,
       "status": "closing"
     },
@@ -1390,6 +1542,41 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2518227",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-5297efac38",
+      "title": "Unterstützungsleistungen ePA App",
+      "description": "Unterstützungsleistungen ePA App",
+      "authority": "Techniker Krankenkasse",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "20.07.2026",
+      "categories": [
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2541386",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-f6ca2d49f6",
+      "title": "Rahmenvereinbarung für Webleistungen, Hosting und marketingorientierte Dienstleistungen",
+      "description": "Rahmenvereinbarung für Webleistungen, Hosting und marketingorientierte Dienstleistungen",
+      "authority": "BKK Landesverband Bayern",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "20.07.2026",
+      "categories": [
+        "Website",
+        "Marketing"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2550745",
       "value": null,
       "status": "closing"
     },
