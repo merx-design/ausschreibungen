@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-13T09:55:01.344474Z",
-  "total": 110,
+  "updated": "2026-07-20T09:42:53.403920Z",
+  "total": 116,
   "sources": {
     "simap": 0,
-    "dtvp": 110
+    "dtvp": 116
   },
   "tenders": [
     {
@@ -230,6 +230,23 @@
       "status": "open"
     },
     {
+      "id": "dtvp-96191fbcd9",
+      "title": "Markterkundung zur Grunderneuerung des Intranets beim Wasserverband Eifel-Rur (WVER)",
+      "description": "Markterkundung zur Grunderneuerung des Intranets beim Wasserverband Eifel-Rur (WVER)",
+      "authority": "Wasserverband Eifel-Rur - Zentrale Vergabe",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2561745",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-95d6a3f68f",
       "title": "Ausschreibung einer Online-Marketing und Performance-Marketing Agentur für Social Media Advertising - Programmatic Advertising - datengetriebene digitalen Kampagnen.",
       "description": "Ausschreibung einer Online-Marketing und Performance-Marketing Agentur für Social Media Advertising - Programmatic Advertising - datengetriebene digitalen Kampagnen.",
@@ -295,23 +312,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2541390",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-81823d09f6",
-      "title": "Website Support & Weiterentwicklung",
-      "description": "Website Support & Weiterentwicklung",
-      "authority": "Oldenburgisch-Ostfriesischer Wasserverband",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "04.08.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2551103",
       "value": null,
       "status": "open"
     },
@@ -384,6 +384,24 @@
       "status": "open"
     },
     {
+      "id": "dtvp-9ecd75926e",
+      "title": "Erstellung einer Website und Entwicklung einer Online-Plattform",
+      "description": "Erstellung einer Website und Entwicklung einer Online-Plattform",
+      "authority": "Technische Hochschule Köln",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "07.08.2026",
+      "categories": [
+        "Website",
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2562790",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-79ee046820",
       "title": "Externe Projektleitung für KONSENS Softwareentwicklungsprojekte",
       "description": "Externe Projektleitung für KONSENS Softwareentwicklungsprojekte",
@@ -397,6 +415,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2137025",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-dc27835ff0",
+      "title": "Relaunch Website NLF",
+      "description": "Relaunch Website NLF",
+      "authority": "Niedersächsische Landesforsten",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "10.08.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2560331",
       "value": null,
       "status": "open"
     },
@@ -435,6 +470,40 @@
       "status": "open"
     },
     {
+      "id": "dtvp-d678d8a839",
+      "title": "Erstellung einer Webseite für die Museen der Stadt Lüdenscheid",
+      "description": "Erstellung einer Webseite für die Museen der Stadt Lüdenscheid",
+      "authority": "Stadt Lüdenscheid",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "13.08.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2561726",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-a213993db5",
+      "title": "Bereitstellung und Betrieb einer Groupware-SaaS-Lösung für E-Mail, Kalender, Kontakte, Aufgaben, Webmail",
+      "description": "Bereitstellung und Betrieb einer Groupware-SaaS-Lösung für E-Mail, Kalender, Kontakte, Aufgaben, Webmail",
+      "authority": "Zentral- und Landesbibliothek Berlin",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "14.08.2026",
+      "categories": [
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2559136",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-cbcb66f2a4",
       "title": "CRM-System Adito",
       "description": "CRM-System Adito",
@@ -452,89 +521,19 @@
       "status": "open"
     },
     {
-      "id": "dtvp-bda6140f7f",
-      "title": "Digital Hub und Social Media für die Metropolregion Hamburg",
-      "description": "Digital Hub und Social Media für die Metropolregion Hamburg",
-      "authority": "Hamburg Marketing GmbH",
+      "id": "dtvp-81823d09f6",
+      "title": "Website Support & Weiterentwicklung",
+      "description": "Website Support & Weiterentwicklung",
+      "authority": "Oldenburgisch-Ostfriesischer Wasserverband",
       "location": "Deutschland",
       "country": "DE",
       "published": "",
-      "deadline": "21.07.2026",
+      "deadline": "18.08.2026",
       "categories": [
-        "Marketing",
-        "Digitalisierung"
+        "Website"
       ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2541383",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-2c3bb403e3",
-      "title": "Zur Digitalisierung der Lagerlogistik und Implementierung eines Anlageninventursystems auf Workflowbasis",
-      "description": "Zur Digitalisierung der Lagerlogistik und Implementierung eines Anlageninventursystems auf Workflowbasis",
-      "authority": "GSI Helmholtzzentrum für Schwerionenforschung GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "23.07.2026",
-      "categories": [
-        "Digitalisierung"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2511354",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-6faba2a0b2",
-      "title": "Ausschreibung Beschaffung einer SAP-integrierten IT-Lösung zur servicegestützten Überprüfung von Bankverbindungen - Vergabe PR1209011-9727-I",
-      "description": "Ausschreibung Beschaffung einer SAP-integrierten IT-Lösung zur servicegestützten Überprüfung von Bankverbindungen - Vergabe PR1209011-9727-I",
-      "authority": "Fraunhofer-Gesellschaft - Einkauf B12",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "23.07.2026",
-      "categories": [
-        "ERP"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2542361",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-b5a8cf9c1d",
-      "title": "Weiterentwicklung und Ausbau einer digitalen Beteiligungsplattform sowie Umsetzung einer Progressive Web App (PWA)",
-      "description": "Weiterentwicklung und Ausbau einer digitalen Beteiligungsplattform sowie Umsetzung einer Progressive Web App (PWA)",
-      "authority": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "23.07.2026",
-      "categories": [
-        "App",
-        "Digitalisierung"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2550233",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-97400122fb",
-      "title": "Drahtlose Hörunterstützung im Campus via App",
-      "description": "Drahtlose Hörunterstützung im Campus via App",
-      "authority": "Technische Universität Darmstadt",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "24.07.2026",
-      "categories": [
-        "App"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2549985",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2551103",
       "value": null,
       "status": "open"
     },
@@ -569,23 +568,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2556097",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-620edceb6c",
-      "title": "Rahmenvertrag zur Weiterentwicklung des CRM- Systems (insb. der Projektedatenbank für die Fachprogramme) auf Basis von Microsoft Dynamics 365 CRM",
-      "description": "Rahmenvertrag zur Weiterentwicklung des CRM- Systems (insb. der Projektedatenbank für die Fachprogramme) auf Basis von Microsoft Dynamics 365 CRM",
-      "authority": "Engagement Global gGmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "27.07.2026",
-      "categories": [
-        "CRM"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2543122",
       "value": null,
       "status": "open"
     },
@@ -688,6 +670,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2556823",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-7b3c5de2ef",
+      "title": "Website Development",
+      "description": "Website Development",
+      "authority": "JUGEND für Europa",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "31.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2560205",
       "value": null,
       "status": "open"
     },
@@ -1563,20 +1562,20 @@
       "status": "closing"
     },
     {
-      "id": "dtvp-f6ca2d49f6",
-      "title": "Rahmenvereinbarung für Webleistungen, Hosting und marketingorientierte Dienstleistungen",
-      "description": "Rahmenvereinbarung für Webleistungen, Hosting und marketingorientierte Dienstleistungen",
-      "authority": "BKK Landesverband Bayern",
+      "id": "dtvp-bda6140f7f",
+      "title": "Digital Hub und Social Media für die Metropolregion Hamburg",
+      "description": "Digital Hub und Social Media für die Metropolregion Hamburg",
+      "authority": "Hamburg Marketing GmbH",
       "location": "Deutschland",
       "country": "DE",
       "published": "",
-      "deadline": "20.07.2026",
+      "deadline": "21.07.2026",
       "categories": [
-        "Website",
-        "Marketing"
+        "Marketing",
+        "Digitalisierung"
       ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2550745",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2541383",
       "value": null,
       "status": "closing"
     },
@@ -1649,6 +1648,58 @@
       "status": "closing"
     },
     {
+      "id": "dtvp-2c3bb403e3",
+      "title": "Zur Digitalisierung der Lagerlogistik und Implementierung eines Anlageninventursystems auf Workflowbasis",
+      "description": "Zur Digitalisierung der Lagerlogistik und Implementierung eines Anlageninventursystems auf Workflowbasis",
+      "authority": "GSI Helmholtzzentrum für Schwerionenforschung GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "23.07.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2511354",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-6faba2a0b2",
+      "title": "Ausschreibung Beschaffung einer SAP-integrierten IT-Lösung zur servicegestützten Überprüfung von Bankverbindungen - Vergabe PR1209011-9727-I",
+      "description": "Ausschreibung Beschaffung einer SAP-integrierten IT-Lösung zur servicegestützten Überprüfung von Bankverbindungen - Vergabe PR1209011-9727-I",
+      "authority": "Fraunhofer-Gesellschaft - Einkauf B12",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "23.07.2026",
+      "categories": [
+        "ERP"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2542361",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-b5a8cf9c1d",
+      "title": "Weiterentwicklung und Ausbau einer digitalen Beteiligungsplattform sowie Umsetzung einer Progressive Web App (PWA)",
+      "description": "Weiterentwicklung und Ausbau einer digitalen Beteiligungsplattform sowie Umsetzung einer Progressive Web App (PWA)",
+      "authority": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "23.07.2026",
+      "categories": [
+        "App",
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2550233",
+      "value": null,
+      "status": "closing"
+    },
+    {
       "id": "dtvp-09ec89ba29",
       "title": "Rahmenvertrag E-Commerce-Beratung und Serviceleistungen",
       "description": "Rahmenvertrag E-Commerce-Beratung und Serviceleistungen",
@@ -1664,6 +1715,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2516870",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-97400122fb",
+      "title": "Drahtlose Hörunterstützung im Campus via App",
+      "description": "Drahtlose Hörunterstützung im Campus via App",
+      "authority": "Technische Universität Darmstadt",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "24.07.2026",
+      "categories": [
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2549985",
       "value": null,
       "status": "closing"
     },
@@ -1769,6 +1837,41 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2500417",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-620edceb6c",
+      "title": "Rahmenvertrag zur Weiterentwicklung des CRM- Systems (insb. der Projektedatenbank für die Fachprogramme) auf Basis von Microsoft Dynamics 365 CRM",
+      "description": "Rahmenvertrag zur Weiterentwicklung des CRM- Systems (insb. der Projektedatenbank für die Fachprogramme) auf Basis von Microsoft Dynamics 365 CRM",
+      "authority": "Engagement Global gGmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "27.07.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2543122",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-f6ca2d49f6",
+      "title": "Rahmenvereinbarung für Webleistungen, Hosting und marketingorientierte Dienstleistungen",
+      "description": "Rahmenvereinbarung für Webleistungen, Hosting und marketingorientierte Dienstleistungen",
+      "authority": "BKK Landesverband Bayern",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "27.07.2026",
+      "categories": [
+        "Website",
+        "Marketing"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2550745",
       "value": null,
       "status": "closing"
     },
