@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-20T09:42:53.403920Z",
-  "total": 116,
+  "updated": "2026-07-27T10:27:45.308441Z",
+  "total": 126,
   "sources": {
     "simap": 0,
-    "dtvp": 116
+    "dtvp": 126
   },
   "tenders": [
     {
@@ -265,57 +265,6 @@
       "status": "open"
     },
     {
-      "id": "dtvp-f0972c875e",
-      "title": "Relaunch, Betrieb und Hosting der Websites",
-      "description": "Relaunch, Betrieb und Hosting der Websites",
-      "authority": "Rheinland-Pfalz Tourismus GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "03.08.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2545210",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-4c517df192",
-      "title": "Rahmenvertrag: Microsoft Cloud-Lizenzen für CRM-System und Azure Plan",
-      "description": "Rahmenvertrag: Microsoft Cloud-Lizenzen für CRM-System und Azure Plan",
-      "authority": "Rhein-Main-Verkehrsverbund GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "03.08.2026",
-      "categories": [
-        "CRM"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2550326",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-810daa8529",
-      "title": "Unterstützungsleistungen ePA App ANÜ",
-      "description": "Unterstützungsleistungen ePA App ANÜ",
-      "authority": "Techniker Krankenkasse",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "03.08.2026",
-      "categories": [
-        "App"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2541390",
-      "value": null,
-      "status": "open"
-    },
-    {
       "id": "dtvp-d960b86b2c",
       "title": "Technische Betreuung und Weiterentwicklung der Website www.sexualaufklaerung.de",
       "description": "Technische Betreuung und Weiterentwicklung der Website www.sexualaufklaerung.de",
@@ -436,6 +385,23 @@
       "status": "open"
     },
     {
+      "id": "dtvp-65f4317281",
+      "title": "Externe Beratung Website",
+      "description": "Externe Beratung Website",
+      "authority": "NBank",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "10.08.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2563836",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-d54df10737",
       "title": "CRM-System",
       "description": "CRM-System",
@@ -521,6 +487,23 @@
       "status": "open"
     },
     {
+      "id": "dtvp-31bdc96d64",
+      "title": "Beschaffung eines Newsroom-Tools als SaaS",
+      "description": "Beschaffung eines Newsroom-Tools als SaaS",
+      "authority": "Verbraucherzentrale Bundesverband e.V.",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "17.08.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2565815",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-81823d09f6",
       "title": "Website Support & Weiterentwicklung",
       "description": "Website Support & Weiterentwicklung",
@@ -534,6 +517,91 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2551103",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-479a57ec7c",
+      "title": "Integriertes CRM-System",
+      "description": "Integriertes CRM-System",
+      "authority": "German Institute of Development and Sustainability (IDOS) gGmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "18.08.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2565762",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-f3168a4a5d",
+      "title": "Vergabe von Dienstleistungen zum Website-Support und der Erstellung einer Portal-Website",
+      "description": "Vergabe von Dienstleistungen zum Website-Support und der Erstellung einer Portal-Website",
+      "authority": "KEA Klimaschutz- und Energieagentur Baden-Württemberg GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "21.08.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2566531",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-50f6686c7a",
+      "title": "Rahmenvertrag über die Entwicklung?und den Betrieb von CMS-Dienstleistungen (TYPO3)",
+      "description": "Rahmenvertrag über die Entwicklung?und den Betrieb von CMS-Dienstleistungen (TYPO3)",
+      "authority": "Stadtwerke Leipzig GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "21.08.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2566500",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-d536623014",
+      "title": "Optimierungsmaßnahmen des bestehenden E-Learning Tools UNESCO-Stätten der Lausitz",
+      "description": "Optimierungsmaßnahmen des bestehenden E-Learning Tools UNESCO-Stätten der Lausitz",
+      "authority": "Marketing-Gesellschaft Oberlausitz-Niederschlesien mbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "21.08.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2566667",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-1ce1be8786",
+      "title": "NLG - Migration von SAP ERP 6.0 auf SAP S/4/HANA Brownfield System Conversion",
+      "description": "NLG - Migration von SAP ERP 6.0 auf SAP S/4/HANA Brownfield System Conversion",
+      "authority": "Niedersächsische Landgesellschaft mbH (NLG)",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "21.08.2026",
+      "categories": [
+        "ERP"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2566793",
       "value": null,
       "status": "open"
     },
@@ -555,6 +623,41 @@
       "status": "open"
     },
     {
+      "id": "dtvp-15592bf339",
+      "title": "Relaunch Website",
+      "description": "Relaunch Website",
+      "authority": "Technische Hochschule Mannheim",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "25.08.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2568380",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-3cdec79cc5",
+      "title": "Lizenzen für SAP Business by Design",
+      "description": "Lizenzen für SAP Business by Design",
+      "authority": "CONITAS GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "25.08.2026",
+      "categories": [
+        "ERP",
+        "Design"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2568508",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-dd35458ce5",
       "title": "Support und Relaunch der Website www.frankfurt-inklusive.de und des Stadtführers für Menschen mit Behinderungen",
       "description": "Support und Relaunch der Website www.frankfurt-inklusive.de und des Stadtführers für Menschen mit Behinderungen",
@@ -568,23 +671,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2556097",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-920ca8bc42",
-      "title": "Technische Pflege und Hosting der Website zum EU-Schulprogramm NRW  sowie Bereitstellung der Bewerbungsverfahren für die Jahre 2027 bis 2029",
-      "description": "Technische Pflege und Hosting der Website zum EU-Schulprogramm NRW  sowie Bereitstellung der Bewerbungsverfahren für die Jahre 2027 bis 2029",
-      "authority": "Ministerium für Landwirtschaft und Verbraucherschutz NRW",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "30.07.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2543275",
       "value": null,
       "status": "open"
     },
@@ -619,74 +705,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=1882041",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-c22294b0db",
-      "title": "ERP SW Norderney",
-      "description": "ERP SW Norderney",
-      "authority": "Stadtwerke Norderney GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "31.07.2026",
-      "categories": [
-        "ERP"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2551486",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-ca41fc0a2c",
-      "title": "Betreuung und Entwicklung der Website der HfMT Köln/ Typ 3",
-      "description": "Betreuung und Entwicklung der Website der HfMT Köln/ Typ 3",
-      "authority": "Hochschule für Musik und Tanz Köln",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "31.07.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2557023",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-a3a96a6b5d",
-      "title": "Rahmenvertrag Unterstützungsleistungen Social Media",
-      "description": "Rahmenvertrag Unterstützungsleistungen Social Media",
-      "authority": "DIHK | Deutsche Industrie und Handelskammer",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "31.07.2026",
-      "categories": [
-        "Marketing"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2556823",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-7b3c5de2ef",
-      "title": "Website Development",
-      "description": "Website Development",
-      "authority": "JUGEND für Europa",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "31.07.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2560205",
       "value": null,
       "status": "open"
     },
@@ -875,6 +893,57 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2541673",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-f0972c875e",
+      "title": "Relaunch, Betrieb und Hosting der Websites",
+      "description": "Relaunch, Betrieb und Hosting der Websites",
+      "authority": "Rheinland-Pfalz Tourismus GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "03.08.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2545210",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-4c517df192",
+      "title": "Rahmenvertrag: Microsoft Cloud-Lizenzen für CRM-System und Azure Plan",
+      "description": "Rahmenvertrag: Microsoft Cloud-Lizenzen für CRM-System und Azure Plan",
+      "authority": "Rhein-Main-Verkehrsverbund GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "03.08.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2550326",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-810daa8529",
+      "title": "Unterstützungsleistungen ePA App ANÜ",
+      "description": "Unterstützungsleistungen ePA App ANÜ",
+      "authority": "Techniker Krankenkasse",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "03.08.2026",
+      "categories": [
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2541390",
       "value": null,
       "status": "closing"
     },
@@ -1992,6 +2061,108 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2524579",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-920ca8bc42",
+      "title": "Technische Pflege und Hosting der Website zum EU-Schulprogramm NRW  sowie Bereitstellung der Bewerbungsverfahren für die Jahre 2027 bis 2029",
+      "description": "Technische Pflege und Hosting der Website zum EU-Schulprogramm NRW  sowie Bereitstellung der Bewerbungsverfahren für die Jahre 2027 bis 2029",
+      "authority": "Ministerium für Landwirtschaft und Verbraucherschutz NRW",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "30.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2543275",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-c22294b0db",
+      "title": "ERP SW Norderney",
+      "description": "ERP SW Norderney",
+      "authority": "Stadtwerke Norderney GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "31.07.2026",
+      "categories": [
+        "ERP"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2551486",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-ca41fc0a2c",
+      "title": "Betreuung und Entwicklung der Website der HfMT Köln/ Typ 3",
+      "description": "Betreuung und Entwicklung der Website der HfMT Köln/ Typ 3",
+      "authority": "Hochschule für Musik und Tanz Köln",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "31.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2557023",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-a3a96a6b5d",
+      "title": "Rahmenvertrag Unterstützungsleistungen Social Media",
+      "description": "Rahmenvertrag Unterstützungsleistungen Social Media",
+      "authority": "DIHK | Deutsche Industrie und Handelskammer",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "31.07.2026",
+      "categories": [
+        "Marketing"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2556823",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-7b3c5de2ef",
+      "title": "Website Development",
+      "description": "Website Development",
+      "authority": "JUGEND für Europa",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "31.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2560205",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-7e549f700f",
+      "title": "ERP SW Norderney",
+      "description": "ERP SW Norderney",
+      "authority": "Stadtwerke Norderney GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "31.07.2026",
+      "categories": [
+        "ERP"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2568433",
       "value": null,
       "status": "closing"
     }
