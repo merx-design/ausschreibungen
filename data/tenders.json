@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-03T10:14:30.989620Z",
-  "total": 127,
+  "updated": "2026-08-10T08:15:29.245611Z",
+  "total": 132,
   "sources": {
     "simap": 0,
-    "dtvp": 127
+    "dtvp": 132
   },
   "tenders": [
     {
@@ -265,6 +265,23 @@
       "status": "open"
     },
     {
+      "id": "dtvp-7dfcab1591",
+      "title": "Softwareentwicklung VR und Kauf von VR Brillen",
+      "description": "Softwareentwicklung VR und Kauf von VR Brillen",
+      "authority": "Landkreis Meißen, Landratsamt, Rechts- und Kommunalamt, Vergabestelle",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "01.09.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2575067",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-e5c5a73573",
       "title": "Ausschreibung Leadagentur für das Landesmarketing Thüringens, verantwortet durch die Thüringer Staatskanzlei (TSK)",
       "description": "Ausschreibung Leadagentur für das Landesmarketing Thüringens, verantwortet durch die Thüringer Staatskanzlei (TSK)",
@@ -312,6 +329,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2550951",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-b6aa4609fb",
+      "title": "SAP-Cloud ERP Public Transformation im Greenfield Ansatz als Werksvertrag",
+      "description": "SAP-Cloud ERP Public Transformation im Greenfield Ansatz als Werksvertrag",
+      "authority": "AWB Abfallwirtschaftsbetriebe Köln GmbH Einkauf",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "07.09.2026",
+      "categories": [
+        "ERP"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2578235",
       "value": null,
       "status": "open"
     },
@@ -367,40 +401,6 @@
       "status": "open"
     },
     {
-      "id": "dtvp-f2c59bdf14",
-      "title": "Softwareentwicklung für Betriebssystem des AVF-Kompetenzzentrum im Rahmen des Projekts MOVEwell",
-      "description": "Softwareentwicklung für Betriebssystem des AVF-Kompetenzzentrum im Rahmen des Projekts MOVEwell",
-      "authority": "Bauhaus-Universität Weimar",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "11.08.2026",
-      "categories": [
-        "Digitalisierung"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2556276",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-d678d8a839",
-      "title": "Erstellung einer Webseite für die Museen der Stadt Lüdenscheid",
-      "description": "Erstellung einer Webseite für die Museen der Stadt Lüdenscheid",
-      "authority": "Stadt Lüdenscheid",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "13.08.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2561726",
-      "value": null,
-      "status": "open"
-    },
-    {
       "id": "dtvp-a213993db5",
       "title": "Bereitstellung und Betrieb einer Groupware-SaaS-Lösung für E-Mail, Kalender, Kontakte, Aufgaben, Webmail",
       "description": "Bereitstellung und Betrieb einer Groupware-SaaS-Lösung für E-Mail, Kalender, Kontakte, Aufgaben, Webmail",
@@ -414,40 +414,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2559136",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-2ec75fdd32",
-      "title": "Wanderausstellung, Website und Begleitpublikation zum 100-jährigen Jubiläum des Brüsseler Kongress RLS-WV-2026-12",
-      "description": "Wanderausstellung, Website und Begleitpublikation zum 100-jährigen Jubiläum des Brüsseler Kongress RLS-WV-2026-12",
-      "authority": "Rosa-Luxemburg-Stiftung e. V.",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "14.08.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2574334",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-cbcb66f2a4",
-      "title": "CRM-System Adito",
-      "description": "CRM-System Adito",
-      "authority": "Deutsche Welle, Standort Bonn",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "17.08.2026",
-      "categories": [
-        "CRM"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2557752",
       "value": null,
       "status": "open"
     },
@@ -687,6 +653,40 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2550109",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-480cecd3ed",
+      "title": "Migration und technische Betreuung der Website des Leibniz-Instituts für Gewässerökologie und Binnenfischerei IGB-2026-0012",
+      "description": "Migration und technische Betreuung der Website des Leibniz-Instituts für Gewässerökologie und Binnenfischerei IGB-2026-0012",
+      "authority": "Forschungsverbund Berlin e.V.",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "31.08.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2576289",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-0f7e78b7c6",
+      "title": "Beschaffung eines CRM-Systems für die Wirtschaftsförderung der Landeshauptstadt Potsdam",
+      "description": "Beschaffung eines CRM-Systems für die Wirtschaftsförderung der Landeshauptstadt Potsdam",
+      "authority": "Landeshauptstadt Potsdam",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "31.08.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2577660",
       "value": null,
       "status": "open"
     },
@@ -1238,6 +1238,23 @@
       "status": "closing"
     },
     {
+      "id": "dtvp-f2c59bdf14",
+      "title": "Softwareentwicklung für Betriebssystem des AVF-Kompetenzzentrum im Rahmen des Projekts MOVEwell",
+      "description": "Softwareentwicklung für Betriebssystem des AVF-Kompetenzzentrum im Rahmen des Projekts MOVEwell",
+      "authority": "Bauhaus-Universität Weimar",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "11.08.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2556276",
+      "value": null,
+      "status": "closing"
+    },
+    {
       "id": "dtvp-414a0f0689",
       "title": "CDN-Plattform zur Auslieferung von AV-Inhalten sowie Webseiten im Internet in drei Losen",
       "description": "CDN-Plattform zur Auslieferung von AV-Inhalten sowie Webseiten im Internet in drei Losen",
@@ -1357,6 +1374,23 @@
       "status": "closing"
     },
     {
+      "id": "dtvp-d678d8a839",
+      "title": "Erstellung einer Webseite für die Museen der Stadt Lüdenscheid",
+      "description": "Erstellung einer Webseite für die Museen der Stadt Lüdenscheid",
+      "authority": "Stadt Lüdenscheid",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "13.08.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2561726",
+      "value": null,
+      "status": "closing"
+    },
+    {
       "id": "dtvp-42346ee0b7",
       "title": "Upgrade und Wartung eines Website CMS",
       "description": "Upgrade und Wartung eines Website CMS",
@@ -1404,6 +1438,40 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2550567",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-2ec75fdd32",
+      "title": "Wanderausstellung, Website und Begleitpublikation zum 100-jährigen Jubiläum des Brüsseler Kongress RLS-WV-2026-12",
+      "description": "Wanderausstellung, Website und Begleitpublikation zum 100-jährigen Jubiläum des Brüsseler Kongress RLS-WV-2026-12",
+      "authority": "Rosa-Luxemburg-Stiftung e. V.",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "14.08.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2574334",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-b218b7827b",
+      "title": "ERP SW Norderney",
+      "description": "ERP SW Norderney",
+      "authority": "Stadtwerke Norderney GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "14.08.2026",
+      "categories": [
+        "ERP"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2579239",
       "value": null,
       "status": "closing"
     },
@@ -1575,6 +1643,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2519354",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-cbcb66f2a4",
+      "title": "CRM-System Adito",
+      "description": "CRM-System Adito",
+      "authority": "Deutsche Welle, Standort Bonn",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "17.08.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2557752",
       "value": null,
       "status": "closing"
     },
