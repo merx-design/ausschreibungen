@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-10T08:15:29.245611Z",
-  "total": 132,
+  "updated": "2026-08-17T07:33:20.853692Z",
+  "total": 136,
   "sources": {
     "simap": 0,
-    "dtvp": 132
+    "dtvp": 136
   },
   "tenders": [
     {
@@ -282,6 +282,40 @@
       "status": "open"
     },
     {
+      "id": "dtvp-1108928da5",
+      "title": "MoDeCa Webplattform",
+      "description": "MoDeCa Webplattform",
+      "authority": "Hochschule Bochum",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "04.09.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2583076",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-7cb629dad4",
+      "title": "Markterkundung CRM: Customer-Relationship-Management",
+      "description": "Markterkundung CRM: Customer-Relationship-Management",
+      "authority": "Investitionsbank Berlin",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "04.09.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2580866",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-e5c5a73573",
       "title": "Ausschreibung Leadagentur für das Landesmarketing Thüringens, verantwortet durch die Thüringer Staatskanzlei (TSK)",
       "description": "Ausschreibung Leadagentur für das Landesmarketing Thüringens, verantwortet durch die Thüringer Staatskanzlei (TSK)",
@@ -418,6 +452,40 @@
       "status": "open"
     },
     {
+      "id": "dtvp-c8b4bfda8e",
+      "title": "CRM-System für die Stiftung Naturschutz SH",
+      "description": "CRM-System für die Stiftung Naturschutz SH",
+      "authority": "Stiftung Naturschutz Schleswig-Holstein",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "14.09.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2583730",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-4fbcd30ad7",
+      "title": "IT-Dienstleistungen für die Softwareentwicklung im Bereich Datenbank MySQL, hier: Konzeption, Entwicklung und Migration",
+      "description": "IT-Dienstleistungen für die Softwareentwicklung im Bereich Datenbank MySQL, hier: Konzeption, Entwicklung und Migration",
+      "authority": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "16.09.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2583257",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-31bdc96d64",
       "title": "Beschaffung eines Newsroom-Tools als SaaS",
       "description": "Beschaffung eines Newsroom-Tools als SaaS",
@@ -431,40 +499,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2565815",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-81823d09f6",
-      "title": "Website Support & Weiterentwicklung",
-      "description": "Website Support & Weiterentwicklung",
-      "authority": "Oldenburgisch-Ostfriesischer Wasserverband",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "18.08.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2551103",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-479a57ec7c",
-      "title": "Integriertes CRM-System",
-      "description": "Integriertes CRM-System",
-      "authority": "German Institute of Development and Sustainability (IDOS) gGmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "18.08.2026",
-      "categories": [
-        "CRM"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2565762",
       "value": null,
       "status": "open"
     },
@@ -516,23 +550,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2566667",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-1ce1be8786",
-      "title": "NLG - Migration von SAP ERP 6.0 auf SAP S/4/HANA Brownfield System Conversion",
-      "description": "NLG - Migration von SAP ERP 6.0 auf SAP S/4/HANA Brownfield System Conversion",
-      "authority": "Niedersächsische Landgesellschaft mbH (NLG)",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "21.08.2026",
-      "categories": [
-        "ERP"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2566793",
       "value": null,
       "status": "open"
     },
@@ -1681,6 +1698,40 @@
       "status": "closing"
     },
     {
+      "id": "dtvp-81823d09f6",
+      "title": "Website Support & Weiterentwicklung",
+      "description": "Website Support & Weiterentwicklung",
+      "authority": "Oldenburgisch-Ostfriesischer Wasserverband",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "18.08.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2551103",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-479a57ec7c",
+      "title": "Integriertes CRM-System",
+      "description": "Integriertes CRM-System",
+      "authority": "German Institute of Development and Sustainability (IDOS) gGmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "18.08.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2565762",
+      "value": null,
+      "status": "closing"
+    },
+    {
       "id": "dtvp-3c556c44be",
       "title": "AppSecurity-Expertentest",
       "description": "AppSecurity-Expertentest",
@@ -1747,6 +1798,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2541383",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-1ce1be8786",
+      "title": "NLG - Migration von SAP ERP 6.0 auf SAP S/4/HANA Brownfield System Conversion",
+      "description": "NLG - Migration von SAP ERP 6.0 auf SAP S/4/HANA Brownfield System Conversion",
+      "authority": "Niedersächsische Landgesellschaft mbH (NLG)",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "21.08.2026",
+      "categories": [
+        "ERP"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2566793",
       "value": null,
       "status": "closing"
     },
