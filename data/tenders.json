@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-17T07:33:20.853692Z",
-  "total": 136,
+  "updated": "2026-08-24T07:38:23.844730Z",
+  "total": 140,
   "sources": {
     "simap": 0,
-    "dtvp": 136
+    "dtvp": 140
   },
   "tenders": [
     {
@@ -243,6 +243,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2561745",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-5bbee633db",
+      "title": "Give-aways für 64 Beratungsstellen in neuem Corporate Design",
+      "description": "Give-aways für 64 Beratungsstellen in neuem Corporate Design",
+      "authority": "Verbraucherzentrale NRW e. V.",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "",
+      "categories": [
+        "Design"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2585118",
       "value": null,
       "status": "open"
     },
@@ -503,6 +520,40 @@
       "status": "open"
     },
     {
+      "id": "dtvp-89bc1f80ed",
+      "title": "Technische Pflege und Hosting der Website zum EU-Schulprogramm NRW  sowie Bereitstellung der Bewerbungsverfahren für die Jahre 2027 bis 2029",
+      "description": "Technische Pflege und Hosting der Website zum EU-Schulprogramm NRW  sowie Bereitstellung der Bewerbungsverfahren für die Jahre 2027 bis 2029",
+      "authority": "Ministerium für Landwirtschaft und Verbraucherschutz NRW",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "17.09.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2589072",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-85f178ff55",
+      "title": "TRANSITION SAP ERP HCM AUF SAP HCM FOR S/4HANA (H4S4)",
+      "description": "TRANSITION SAP ERP HCM AUF SAP HCM FOR S/4HANA (H4S4)",
+      "authority": "Max-Delbrück-Centrum für Molekulare Medizin in der Helmholtz-Gemeinschaft",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "18.09.2026",
+      "categories": [
+        "ERP"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2588577",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-f3168a4a5d",
       "title": "Vergabe von Dienstleistungen zum Website-Support und der Erstellung einer Portal-Website",
       "description": "Vergabe von Dienstleistungen zum Website-Support und der Erstellung einer Portal-Website",
@@ -554,6 +605,23 @@
       "status": "open"
     },
     {
+      "id": "dtvp-99347eac3e",
+      "title": "Lieferung und Implementierung eines CRM-Systems",
+      "description": "Lieferung und Implementierung eines CRM-Systems",
+      "authority": "Universität Stuttgart",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "21.09.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2588068",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-5f2ea27b96",
       "title": "Dynamisches Beschaffungssystem zur Beschaffung von verschiedenen IT-Dienstleistungen",
       "description": "Dynamisches Beschaffungssystem zur Beschaffung von verschiedenen IT-Dienstleistungen",
@@ -567,58 +635,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2027382",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-15592bf339",
-      "title": "Relaunch Website",
-      "description": "Relaunch Website",
-      "authority": "Technische Hochschule Mannheim",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "25.08.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2568380",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-3cdec79cc5",
-      "title": "Lizenzen für SAP Business by Design",
-      "description": "Lizenzen für SAP Business by Design",
-      "authority": "CONITAS GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "25.08.2026",
-      "categories": [
-        "ERP",
-        "Design"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2568508",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-dd35458ce5",
-      "title": "Support und Relaunch der Website www.frankfurt-inklusive.de und des Stadtführers für Menschen mit Behinderungen",
-      "description": "Support und Relaunch der Website www.frankfurt-inklusive.de und des Stadtführers für Menschen mit Behinderungen",
-      "authority": "Stadt Frankfurt am Main, Stadtkämmerei Ausschreibungsservice",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "26.08.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2556097",
       "value": null,
       "status": "open"
     },
@@ -670,40 +686,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2550109",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-480cecd3ed",
-      "title": "Migration und technische Betreuung der Website des Leibniz-Instituts für Gewässerökologie und Binnenfischerei IGB-2026-0012",
-      "description": "Migration und technische Betreuung der Website des Leibniz-Instituts für Gewässerökologie und Binnenfischerei IGB-2026-0012",
-      "authority": "Forschungsverbund Berlin e.V.",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "31.08.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2576289",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-0f7e78b7c6",
-      "title": "Beschaffung eines CRM-Systems für die Wirtschaftsförderung der Landeshauptstadt Potsdam",
-      "description": "Beschaffung eines CRM-Systems für die Wirtschaftsförderung der Landeshauptstadt Potsdam",
-      "authority": "Landeshauptstadt Potsdam",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "31.08.2026",
-      "categories": [
-        "CRM"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2577660",
       "value": null,
       "status": "open"
     },
@@ -1975,6 +1957,41 @@
       "status": "closing"
     },
     {
+      "id": "dtvp-15592bf339",
+      "title": "Relaunch Website",
+      "description": "Relaunch Website",
+      "authority": "Technische Hochschule Mannheim",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "25.08.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2568380",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-3cdec79cc5",
+      "title": "Lizenzen für SAP Business by Design",
+      "description": "Lizenzen für SAP Business by Design",
+      "authority": "CONITAS GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "25.08.2026",
+      "categories": [
+        "ERP",
+        "Design"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2568508",
+      "value": null,
+      "status": "closing"
+    },
+    {
       "id": "dtvp-ce43eab28f",
       "title": "Hosting, Betreuung und Weiterentwicklung  BGE-Website",
       "description": "Hosting, Betreuung und Weiterentwicklung  BGE-Website",
@@ -2058,6 +2075,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2538419",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-dd35458ce5",
+      "title": "Support und Relaunch der Website www.frankfurt-inklusive.de und des Stadtführers für Menschen mit Behinderungen",
+      "description": "Support und Relaunch der Website www.frankfurt-inklusive.de und des Stadtführers für Menschen mit Behinderungen",
+      "authority": "Stadt Frankfurt am Main, Stadtkämmerei Ausschreibungsservice",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "26.08.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2556097",
       "value": null,
       "status": "closing"
     },
@@ -2333,6 +2367,40 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2568433",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-480cecd3ed",
+      "title": "Migration und technische Betreuung der Website des Leibniz-Instituts für Gewässerökologie und Binnenfischerei IGB-2026-0012",
+      "description": "Migration und technische Betreuung der Website des Leibniz-Instituts für Gewässerökologie und Binnenfischerei IGB-2026-0012",
+      "authority": "Forschungsverbund Berlin e.V.",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "31.08.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2576289",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-0f7e78b7c6",
+      "title": "Beschaffung eines CRM-Systems für die Wirtschaftsförderung der Landeshauptstadt Potsdam",
+      "description": "Beschaffung eines CRM-Systems für die Wirtschaftsförderung der Landeshauptstadt Potsdam",
+      "authority": "Landeshauptstadt Potsdam",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "31.08.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2577660",
       "value": null,
       "status": "closing"
     }
