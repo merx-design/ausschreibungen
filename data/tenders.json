@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-24T07:38:23.844730Z",
-  "total": 140,
+  "updated": "2026-08-31T14:18:15.179645Z",
+  "total": 146,
   "sources": {
     "simap": 0,
-    "dtvp": 140
+    "dtvp": 146
   },
   "tenders": [
     {
@@ -282,57 +282,6 @@
       "status": "open"
     },
     {
-      "id": "dtvp-7dfcab1591",
-      "title": "Softwareentwicklung VR und Kauf von VR Brillen",
-      "description": "Softwareentwicklung VR und Kauf von VR Brillen",
-      "authority": "Landkreis Meißen, Landratsamt, Rechts- und Kommunalamt, Vergabestelle",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "01.09.2026",
-      "categories": [
-        "Digitalisierung"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2575067",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-1108928da5",
-      "title": "MoDeCa Webplattform",
-      "description": "MoDeCa Webplattform",
-      "authority": "Hochschule Bochum",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "04.09.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2583076",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-7cb629dad4",
-      "title": "Markterkundung CRM: Customer-Relationship-Management",
-      "description": "Markterkundung CRM: Customer-Relationship-Management",
-      "authority": "Investitionsbank Berlin",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "04.09.2026",
-      "categories": [
-        "CRM"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2580866",
-      "value": null,
-      "status": "open"
-    },
-    {
       "id": "dtvp-e5c5a73573",
       "title": "Ausschreibung Leadagentur für das Landesmarketing Thüringens, verantwortet durch die Thüringer Staatskanzlei (TSK)",
       "description": "Ausschreibung Leadagentur für das Landesmarketing Thüringens, verantwortet durch die Thüringer Staatskanzlei (TSK)",
@@ -384,19 +333,36 @@
       "status": "open"
     },
     {
-      "id": "dtvp-b6aa4609fb",
-      "title": "SAP-Cloud ERP Public Transformation im Greenfield Ansatz als Werksvertrag",
-      "description": "SAP-Cloud ERP Public Transformation im Greenfield Ansatz als Werksvertrag",
-      "authority": "AWB Abfallwirtschaftsbetriebe Köln GmbH Einkauf",
+      "id": "dtvp-73e1e44629",
+      "title": "Website für das Universitätsklinikum Ostwestfalen-Lippe Medizinische Fakultät OWL",
+      "description": "Website für das Universitätsklinikum Ostwestfalen-Lippe Medizinische Fakultät OWL",
+      "authority": "Universität Bielefeld",
       "location": "Deutschland",
       "country": "DE",
       "published": "",
-      "deadline": "07.09.2026",
+      "deadline": "08.09.2026",
       "categories": [
-        "ERP"
+        "Website"
       ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2578235",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2591112",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-33dab2476d",
+      "title": "Rahmenvertrag zur Administration der Website kultur-reinickendorf.de, einschließlich Subsites",
+      "description": "Rahmenvertrag zur Administration der Website kultur-reinickendorf.de, einschließlich Subsites",
+      "authority": "Bezirksamt Reinickendorf von Berlin",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "08.09.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2590725",
       "value": null,
       "status": "open"
     },
@@ -482,6 +448,40 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2583730",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-344e2181c9",
+      "title": "Relaunch und Weiterentwicklung der CHANCEN-Verbund-Website unter Verwendung des Content-Management-Systems Plone",
+      "description": "Relaunch und Weiterentwicklung der CHANCEN-Verbund-Website unter Verwendung des Content-Management-Systems Plone",
+      "authority": "DIPF | Leibniz-Institut für Bildungsforschung und Bildungsinformation",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "15.09.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2591847",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-c536e71470",
+      "title": "Softwareentwicklung VR und Kauf von VR Brillen",
+      "description": "Softwareentwicklung VR und Kauf von VR Brillen",
+      "authority": "Landkreis Meißen, Landratsamt, Rechts- und Kommunalamt, Vergabestelle",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "15.09.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2592363",
       "value": null,
       "status": "open"
     },
@@ -639,6 +639,40 @@
       "status": "open"
     },
     {
+      "id": "dtvp-5a31abec8e",
+      "title": "RV Technische Betreuung & Wartung Intranet",
+      "description": "RV Technische Betreuung & Wartung Intranet",
+      "authority": "Berlin Partner für Wirtschaft und Technologie GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "25.09.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2593983",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-6ab7ff0174",
+      "title": "CRM-System",
+      "description": "CRM-System",
+      "authority": "Energieservice Westfalen Weser GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "25.09.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2591593",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-fe48f6eca8",
       "title": "DL20230719-018100: Ausgeschrieben wird ein dynamisches Beschaffungssystem gemäß §§ 22 bis 24 VgV für diverse Tätigkeiten aus dem IT-Dienstleistungs- und Projektumfeld, die der Unterstützung des Schulrechenzentrums im IT-DLZ dienen.\n\nDas dynamische Be",
       "description": "DL20230719-018100: Ausgeschrieben wird ein dynamisches Beschaffungssystem gemäß §§ 22 bis 24 VgV für diverse Tätigkeiten aus dem IT-Dienstleistungs- und Projektumfeld, die der Unterstützung des Schulrechenzentrums im IT-DLZ dienen.\n\nDas dynamische Besc...",
@@ -754,6 +788,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2505105",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-7dfcab1591",
+      "title": "Softwareentwicklung VR und Kauf von VR Brillen",
+      "description": "Softwareentwicklung VR und Kauf von VR Brillen",
+      "authority": "Landkreis Meißen, Landratsamt, Rechts- und Kommunalamt, Vergabestelle",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "01.09.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2575067",
       "value": null,
       "status": "closing"
     },
@@ -912,6 +963,40 @@
       "status": "closing"
     },
     {
+      "id": "dtvp-1108928da5",
+      "title": "MoDeCa Webplattform",
+      "description": "MoDeCa Webplattform",
+      "authority": "Hochschule Bochum",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "04.09.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2583076",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-7cb629dad4",
+      "title": "Markterkundung CRM: Customer-Relationship-Management",
+      "description": "Markterkundung CRM: Customer-Relationship-Management",
+      "authority": "Investitionsbank Berlin",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "04.09.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2580866",
+      "value": null,
+      "status": "closing"
+    },
+    {
       "id": "dtvp-d2bf1125ca",
       "title": "Hessisches Kulturgut-Portal",
       "description": "Hessisches Kulturgut-Portal",
@@ -1046,6 +1131,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2562790",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-b6aa4609fb",
+      "title": "SAP-Cloud ERP Public Transformation im Greenfield Ansatz als Werksvertrag",
+      "description": "SAP-Cloud ERP Public Transformation im Greenfield Ansatz als Werksvertrag",
+      "authority": "AWB Abfallwirtschaftsbetriebe Köln GmbH Einkauf",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "07.09.2026",
+      "categories": [
+        "ERP"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2578235",
       "value": null,
       "status": "closing"
     },
