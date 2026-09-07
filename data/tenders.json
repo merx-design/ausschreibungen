@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-31T14:18:15.179645Z",
-  "total": 146,
+  "updated": "2026-09-07T12:56:27.992530Z",
+  "total": 148,
   "sources": {
     "simap": 0,
-    "dtvp": 146
+    "dtvp": 148
   },
   "tenders": [
     {
@@ -282,6 +282,23 @@
       "status": "open"
     },
     {
+      "id": "dtvp-5629a6c865",
+      "title": "2026-104 Refresh Corporate Design",
+      "description": "2026-104 Refresh Corporate Design",
+      "authority": "Berufsgenossenschaft für Gesundheitsdienst und Wohlfahrtspflege (BGW)",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "02.10.2026",
+      "categories": [
+        "Design"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2598187",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-e5c5a73573",
       "title": "Ausschreibung Leadagentur für das Landesmarketing Thüringens, verantwortet durch die Thüringer Staatskanzlei (TSK)",
       "description": "Ausschreibung Leadagentur für das Landesmarketing Thüringens, verantwortet durch die Thüringer Staatskanzlei (TSK)",
@@ -333,40 +350,6 @@
       "status": "open"
     },
     {
-      "id": "dtvp-73e1e44629",
-      "title": "Website für das Universitätsklinikum Ostwestfalen-Lippe Medizinische Fakultät OWL",
-      "description": "Website für das Universitätsklinikum Ostwestfalen-Lippe Medizinische Fakultät OWL",
-      "authority": "Universität Bielefeld",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "08.09.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2591112",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-33dab2476d",
-      "title": "Rahmenvertrag zur Administration der Website kultur-reinickendorf.de, einschließlich Subsites",
-      "description": "Rahmenvertrag zur Administration der Website kultur-reinickendorf.de, einschließlich Subsites",
-      "authority": "Bezirksamt Reinickendorf von Berlin",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "08.09.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2590725",
-      "value": null,
-      "status": "open"
-    },
-    {
       "id": "dtvp-79ee046820",
       "title": "Externe Projektleitung für KONSENS Softwareentwicklungsprojekte",
       "description": "Externe Projektleitung für KONSENS Softwareentwicklungsprojekte",
@@ -401,6 +384,23 @@
       "status": "open"
     },
     {
+      "id": "dtvp-2df4ffb9dc",
+      "title": "Ausschreibung von Ultraschall-Kaltwasserzählern, Kunden App und Zubehör",
+      "description": "Ausschreibung von Ultraschall-Kaltwasserzählern, Kunden App und Zubehör",
+      "authority": "Zweckverband KÜHLUNG Wasserversorgung & Abwasserbeseitigung",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "10.10.2026",
+      "categories": [
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2596636",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-d54df10737",
       "title": "CRM-System",
       "description": "CRM-System",
@@ -431,23 +431,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2559136",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-c8b4bfda8e",
-      "title": "CRM-System für die Stiftung Naturschutz SH",
-      "description": "CRM-System für die Stiftung Naturschutz SH",
-      "authority": "Stiftung Naturschutz Schleswig-Holstein",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "14.09.2026",
-      "categories": [
-        "CRM"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2583730",
       "value": null,
       "status": "open"
     },
@@ -1220,6 +1203,40 @@
       "status": "closing"
     },
     {
+      "id": "dtvp-73e1e44629",
+      "title": "Website für das Universitätsklinikum Ostwestfalen-Lippe Medizinische Fakultät OWL",
+      "description": "Website für das Universitätsklinikum Ostwestfalen-Lippe Medizinische Fakultät OWL",
+      "authority": "Universität Bielefeld",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "08.09.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2591112",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-33dab2476d",
+      "title": "Rahmenvertrag zur Administration der Website kultur-reinickendorf.de, einschließlich Subsites",
+      "description": "Rahmenvertrag zur Administration der Website kultur-reinickendorf.de, einschließlich Subsites",
+      "authority": "Bezirksamt Reinickendorf von Berlin",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "08.09.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2590725",
+      "value": null,
+      "status": "closing"
+    },
+    {
       "id": "dtvp-b5600bd10f",
       "title": "IM - Softwareentwicklung - Grundlagen der Programmierung - Online",
       "description": "IM - Softwareentwicklung - Grundlagen der Programmierung - Online",
@@ -1573,6 +1590,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2579239",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-c8b4bfda8e",
+      "title": "CRM-System für die Stiftung Naturschutz SH",
+      "description": "CRM-System für die Stiftung Naturschutz SH",
+      "authority": "Stiftung Naturschutz Schleswig-Holstein",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "14.09.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2583730",
       "value": null,
       "status": "closing"
     },
